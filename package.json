@@ -1,0 +1,9 @@
+{
+    "name": "shift-remote-demo-fargate",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/eks": "^0.20.0"
+    }
+}
