@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+pulumi up
+pulumi stack output kubeconfig > kubeconfig.json
